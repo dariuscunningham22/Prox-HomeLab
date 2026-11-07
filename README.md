@@ -88,8 +88,7 @@ Proxmox-Homelab/
 - Virtual machine deployment
 - Technical documentation
 
-## Project Goals
-
+# Project Goals
 The long-term goal of this homelab is to create a realistic environment for practicing IT administration, networking and cybersecurity concepts. As the environment expands, I will document each implementation, configuration, troubleshooting process, and verification step.
 
 This project is ongoing and is being created halfway through my junior year of college and will continue to evolve as I develop new technical skills.
