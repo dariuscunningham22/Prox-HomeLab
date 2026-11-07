@@ -16,7 +16,7 @@ I will use this repository to document configurations, troubleshooting processes
 | Hypervisor         | Proxmox VE 9.2.1         |
 | Network Connection | Ethernet                 |
 | Management Device  | Windows laptop           |
-| Remote Access      | Tailscale                |
+| Remote Access      | Tailscale/SSH               |
 
 ## Current Implementation
 
@@ -56,7 +56,7 @@ I will use this repository to document configurations, troubleshooting processes
 - [ ] Install Jellyfin using Docker.
 - [ ] Document virtual networking and network segmentation.
 - [ ] Implement centralized logging and monitoring.
-- [ ] Expand the homelab with additional cybersecurity projects.
+- [ ] Expand the homelab with additional projects.
 
 ## Repository Structure
 
