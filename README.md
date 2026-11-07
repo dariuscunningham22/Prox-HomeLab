@@ -1,7 +1,5 @@
 # Prox-HomeLab
 My proxmox homeserver to host services, experiment and gain technical hands on experience
-# Proxmox Homelab
-
 ## Overview
 
 This repository documents my personal homelab built using Proxmox VE. The purpose of this project is to gain hands-on experience with virtualization, Linux administration, networking, remote access, and system administration while developing practical skills for entry-level IT, help desk, and cybersecurity roles.
